@@ -46,6 +46,19 @@ python main_conv.py --mode train --task lra-image --random 1001 --name conv
 python main_ff.py --mode train --task lra-image --random 1001 --name ff
 ```
 
+
+## Citation
+```
+@inproceedings{yoon2024layer,
+  title={Layer-Wise Sparse Training of Transformer via Convolutional Flood Filling},
+  author={Yoon, Bokyeong and Han, Yoonsang and Moon, Gordon Euhyun},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  pages={158--170},
+  year={2024},
+  organization={Springer}
+}
+```
+
 ### 3. Inference
 
 ```
