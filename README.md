@@ -1,8 +1,5 @@
 # SPION
 
-This repository is for SPION model by [@Bokyeong1001](https://github.com/Bokyeong1001), proposed in the following paper:
-
-> [Bokyeong Yoon](https://sites.google.com/view/bkyoon), Yoonsang Han and [Gordon Moon](https://gordonmoon.github.io/). SPION: Layer-Wise Sparse Training of Transformer via Convolutional Flood Filling. [Paper in arXiv](https://arxiv.org/abs/2309.12578). 
 
 ## Introduction
 
