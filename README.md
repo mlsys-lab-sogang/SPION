@@ -47,6 +47,12 @@ python main_ff.py --mode train --task lra-image --random 1001 --name ff
 ```
 
 
+### 3. Inference
+
+```
+python main_inference.py --mode eval --task lra-image --random 1001 --name conv_ff
+```
+
 ## Citation
 ```
 @inproceedings{yoon2024layer,
@@ -57,10 +63,4 @@ python main_ff.py --mode train --task lra-image --random 1001 --name ff
   year={2024},
   organization={Springer}
 }
-```
-
-### 3. Inference
-
-```
-python main_inference.py --mode eval --task lra-image --random 1001 --name conv_ff
 ```
